@@ -12,6 +12,7 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 ### Section 1: About You (2 questions)
 
 **1. What is your age range?**
+
 - ○ 18-20
 - ○ 21-23
 - ○ 24-26
@@ -19,6 +20,7 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 - ○ 31+
 
 **2. How would you rate your comfort level with mobile apps?**
+
 - ○ Very comfortable - I use many apps daily
 - ○ Comfortable - I use standard apps regularly
 - ○ Somewhat comfortable - I use basic apps
@@ -29,6 +31,7 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 ### Section 2: Task Experience (4 questions)
 
 **3. How easy was it to complete the daily check-in (Task 1)?**
+
 - ○ Very easy
 - ○ Easy
 - ○ Neutral
@@ -36,6 +39,7 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 - ○ Very difficult
 
 **4. How easy was it to view your progress data (Task 2)?**
+
 - ○ Very easy
 - ○ Easy
 - ○ Neutral
@@ -43,6 +47,7 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 - ○ Very difficult
 
 **5. How easy was it to create a new goal (Task 3)?**
+
 - ○ Very easy
 - ○ Easy
 - ○ Neutral
@@ -50,6 +55,7 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 - ○ Very difficult
 
 **6. How easy was it to interact with your cohort (Task 4)?**
+
 - ○ Very easy
 - ○ Easy
 - ○ Neutral
@@ -62,37 +68,47 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 
 **Instructions**: Please rate your agreement with the following statements about the QuestLabs Companion prototype.
 
-*Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree*
+_Scale: 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree_
 
 **7. I think I would like to use this app frequently.**
-- ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+
+- ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 **8. I found the app unnecessarily complex.**
-- ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+
+- ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 **9. I thought the app was easy to use.**
-- ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+
+- ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 **10. I think I would need help from a technical person to use this app.**
-- ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+
+- ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 **11. I found the various functions in this app were well integrated.**
-- ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+
+- ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 **12. I thought there was too much inconsistency in this app.**
-- ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+
+- ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 **13. I imagine most college students would learn to use this app very quickly.**
-- ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+
+- ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 **14. I found the app very awkward to use.**
-- ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+
+- ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 **15. I felt very confident using the app.**
-- ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+
+- ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 **16. I needed to learn a lot of things before I could use this app effectively.**
-- ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+
+- ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 ---
 
@@ -100,32 +116,35 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 
 **17. Rate the importance of each feature for YOUR personal use:**
 
-*(Scale: 1 = Not important, 2 = Slightly important, 3 = Moderately important, 4 = Important, 5 = Very important)*
+_(Scale: 1 = Not important, 2 = Slightly important, 3 = Moderately important, 4 = Important, 5 = Very important)_
 
-- Daily Check-In (<2 minutes): ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
-- Progress Visualization Dashboard: ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
-- Three-Tier Goal Framework: ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
-- Small Group Cohort Space: ○ 1  ○ 2  ○ 3  ○ 4  ○ 5
+- Daily Check-In (<2 minutes): ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
+- Progress Visualization Dashboard: ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
+- Three-Tier Goal Framework: ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
+- Small Group Cohort Space: ○ 1 ○ 2 ○ 3 ○ 4 ○ 5
 
 **18. Which feature did you find MOST valuable?**
+
 - ○ Daily Check-In
 - ○ Progress Dashboard
 - ○ Goal Framework
 - ○ Cohort Space
-- ○ Other: _______________
+- ○ Other: **\*\***\_\_\_**\*\***
 
 **19. Which feature did you find LEAST valuable or most confusing?**
+
 - ○ Daily Check-In
 - ○ Progress Dashboard
 - ○ Goal Framework
 - ○ Cohort Space
-- ○ Other: _______________
+- ○ Other: **\*\***\_\_\_**\*\***
 
 ---
 
 ### Section 5: Design & Visual Appeal (2 questions)
 
 **20. How would you rate the overall visual design and aesthetics?**
+
 - ○ Excellent
 - ○ Good
 - ○ Average
@@ -133,6 +152,7 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 - ○ Poor
 
 **21. Was the navigation intuitive and easy to understand?**
+
 - ○ Yes, very intuitive
 - ○ Mostly intuitive
 - ○ Somewhat confusing
@@ -143,6 +163,7 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 ### Section 6: Likelihood to Use (2 questions)
 
 **22. How likely would you be to download and use this app if it were available today?**
+
 - ○ Definitely would (5)
 - ○ Probably would (4)
 - ○ Might or might not (3)
@@ -150,6 +171,7 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 - ○ Definitely would not (1)
 
 **23. How likely would you be to recommend this app to a friend?**
+
 - ○ Definitely would (5)
 - ○ Probably would (4)
 - ○ Might or might not (3)
@@ -161,12 +183,15 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 ### Section 7: Open Feedback (3 questions)
 
 **24. What did you LIKE MOST about the app?**
+
 - [Open text field]
 
 **25. What was the MOST FRUSTRATING or CONFUSING aspect of the app?**
+
 - [Open text field]
 
 **26. If you could change or improve ONE THING, what would it be?**
+
 - [Open text field]
 
 ---
@@ -174,6 +199,7 @@ This survey takes about 5-7 minutes. Your honest feedback will help improve the 
 ### Section 8: Final Thoughts (Optional - 1 question)
 
 **27. Any other comments, suggestions, or observations?**
+
 - [Open text field]
 
 ---
@@ -187,6 +213,7 @@ Your feedback is incredibly valuable and will directly improve the QuestLabs Com
 ## SUS Score Calculation (For Analysis)
 
 ### Formula:
+
 1. For odd-numbered questions (7, 9, 11, 13, 15): Score = (Response - 1)
 2. For even-numbered questions (8, 10, 12, 14, 16): Score = (5 - Response)
 3. Sum all scores
@@ -194,6 +221,7 @@ Your feedback is incredibly valuable and will directly improve the QuestLabs Com
 5. **Final SUS Score** = Sum × 2.5 (out of 100)
 
 ### Interpretation:
+
 - **80-100**: Excellent (A)
 - **70-79**: Good (B)
 - **60-69**: Fair (C)
@@ -207,6 +235,7 @@ Your feedback is incredibly valuable and will directly improve the QuestLabs Com
 ## Google Forms Setup Tips
 
 ### Question Types:
+
 - Questions 1-2: Multiple choice
 - Questions 3-6: Multiple choice
 - Questions 7-16: Linear scale (1-5)
@@ -216,6 +245,7 @@ Your feedback is incredibly valuable and will directly improve the QuestLabs Com
 - Questions 24-27: Paragraph text
 
 ### Settings:
+
 - ✅ Require sign-in: NO (keep anonymous)
 - ✅ Limit to 1 response: YES
 - ✅ Show progress bar: YES
@@ -223,6 +253,7 @@ Your feedback is incredibly valuable and will directly improve the QuestLabs Com
 - ✅ Response receipts: Optional (send copy to respondent)
 
 ### Sharing:
+
 - Get shareable link
 - Shorten URL (bit.ly or Google's shortener)
 - QR code (for in-person testing)
@@ -232,6 +263,7 @@ Your feedback is incredibly valuable and will directly improve the QuestLabs Com
 ## Quick Response Check
 
 After first 2-3 responses, check:
+
 - [ ] All questions being answered (no skips)
 - [ ] Open-ended responses are thoughtful (not just "good")
 - [ ] Form takes 5-7 minutes to complete
@@ -240,6 +272,9 @@ After first 2-3 responses, check:
 If issues found, adjust form and note changes in analysis.
 
 ---
+
+Edit URL: https://docs.google.com/forms/d/1nun5R6p9kDu8MgaOjJdAcGGWi6eULgc4UprDxIVK0BM/edit
+Published URL: https://docs.google.com/forms/d/e/1FAIpQLSdSXc-6RoZNzZ9xvfBajbNNcllD9gDj4lJfYjzgRDrpFXfRDg/viewform
 
 **Survey Duration**: 5-7 minutes  
 **Total Testing Time**: ~25 minutes (Tasks + Survey)
